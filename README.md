@@ -15,7 +15,7 @@ Greek Dynamic Calendar - Ελληνικό Δυναμικό Ημερολόγιο
 - `schema.sql`: δημιουργία βάσης, πινάκων και αρχικών δεδομένων
 - `config.php`: ρυθμίσεις βάσης
 
-![Greek Dynamic Calendar](images/images1.jpg) 
+![Greek Dynamic Calendar](images/Calendar-iMac.png) 
 
 ## Εγκατάσταση
 

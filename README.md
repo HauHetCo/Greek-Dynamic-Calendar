@@ -15,6 +15,8 @@ Greek Dynamic Calendar - Ελληνικό Δυναμικό Ημερολόγιο
 - `schema.sql`: δημιουργία βάσης, πινάκων και αρχικών δεδομένων
 - `config.php`: ρυθμίσεις βάσης
 
+![Greek Dynamic Calendar](images/images1.jpg) 
+
 ## Εγκατάσταση
 
 1. Δημιούργησε βάση MySQL ή άφησε το `schema.sql` να τη δημιουργήσει.
